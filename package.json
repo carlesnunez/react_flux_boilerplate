@@ -3,16 +3,8 @@
   "version": "0.0.0",
   "contributors": [
     {
-      "name": "Tomas Casquero",
-      "email": "tomcask@gmail.com"
-    },
-    {
       "name": "Carles Nuñez",
       "email": "carles.nunez@hotmail.es"
-    },
-    {
-      "name": "Adria ",
-      "email": "adrianrios89@gmail.com"
     }
   ],
   "devDependencies": {
@@ -44,7 +36,7 @@
     "react": "~0.13.3",
     "reactify": "~1.1.1",
     "bootstrap": "~3.3.5",
-    "jquery": "~2.1.4",
+    "jquery": "3.0.0",
     "grunt-contrib-concat": "~0.5.1"
   },
   "browserify": {
